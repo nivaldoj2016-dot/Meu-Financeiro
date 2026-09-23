@@ -1,4 +1,4 @@
-const CACHE_NAME = "meu-financeiro-v3";
+const CACHE_NAME = "meu-financeiro-v6";
 const CORE_ASSETS = [
   "./",
   "./index.html",
